@@ -13,7 +13,9 @@ Repositório do treinamento: Workflow de testes contínuos em Playwright no Gith
 
 1. Clonar o repositório, instalar as dependências
 ```
-npm install
+npm init playwright@latest
+
+npm install playwright
 ```
 
 2. Executar testes em Headless
